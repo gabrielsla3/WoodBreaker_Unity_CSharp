@@ -1,0 +1,42 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 555M    (ID=0x1248)
+    Vendor:   NVIDIA
+    VRAM:     1998 MB
+    Driver:   9.18.13.4725
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ProjetosGit\WoodBreaker_Unity_CSharp\GameBuilded\WoodBreaker_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.393435 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 26c4 -> priority: 1 
+  Thread -> id: c9c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.345446 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.340078 ms (FindLiveObjects: 0.044317 ms CreateObjectMapping: 0.054113 ms MarkObjects: 0.233249 ms  DeleteObjects: 0.006997 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.726340 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 0.336812 ms (FindLiveObjects: 0.039652 ms CreateObjectMapping: 0.048982 ms MarkObjects: 0.183800 ms  DeleteObjects: 0.063443 ms)
+
